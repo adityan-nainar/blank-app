@@ -1,1 +1,7 @@
 streamlit
+pandas
+scikit-learn
+seaborn
+streamlit_pandas_profiling
+ydata_profiling
+numba==0.58.1
